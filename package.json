@@ -16,7 +16,7 @@
     "typechainGifInterfaceTypes": "typechain --target ethers-v5 --out-dir src/contracts/gif-interface-contracts './node_modules/@etherisc/gif-interface/build/contracts/**/*json'"
   },
   "dependencies": {
-    "@auth0/auth0-react": "^2.2.4",
+    "@auth0/auth0-react": "^2.3.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@fontsource/roboto": "^5.1.1",
